@@ -7,4 +7,4 @@
 
 
 
-![html-css-landing-page](/preview.png)
+![html-css-landing-page](./preview.png)
